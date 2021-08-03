@@ -1,0 +1,8 @@
+title:машина
+price:45
+quantity:455
+стоп:стоп
+title:трактор
+price:456
+quantity:10
+стоп:стоп

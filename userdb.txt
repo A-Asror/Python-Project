@@ -1,0 +1,14 @@
+name:asror
+surname:abduvosiqov
+username:1
+email:1
+password:1
+status:None
+стоп:стоп
+name:asror
+surname:abduvosiqov
+username:asror
+email:asror@mail.ru
+password:NMsaa2003
+status:None
+стоп:стоп
